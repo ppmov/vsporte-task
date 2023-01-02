@@ -1,0 +1,12 @@
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\bin\Debug\net6.0\VSporte.Task.Solution.deps.json
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\bin\Debug\net6.0\VSporte.Task.Solution.dll
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\bin\Debug\net6.0\VSporte.Task.Solution.pdb
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.csproj.AssemblyReference.cache
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.AssemblyInfoInputs.cache
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.AssemblyInfo.cs
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.csproj.CoreCompileInputs.cache
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.dll
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\refint\VSporte.Task.Solution.dll
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\VSporte.Task.Solution.pdb
+C:\Users\pupim\Documents\.NET projects\vsporte-task\VSporte.Task.Solution\obj\Debug\net6.0\ref\VSporte.Task.Solution.dll
